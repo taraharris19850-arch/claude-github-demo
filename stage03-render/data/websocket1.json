@@ -1,0 +1,59 @@
+{
+  "ws_url": "wss://websocket1.scrape.center/websocket",
+  "sender": "087a62a4-2905-496e-bd77-6cf95b43a47a",
+  "message_count": 8,
+  "transcript": [
+    {
+      "direction": "sent",
+      "time": "2026-08-25T13:09:29",
+      "raw": "{\"sender\": \"087a62a4-2905-496e-bd77-6cf95b43a47a\", \"content\": \"\\u4f60\\u597d\"}",
+      "text": "你好"
+    },
+    {
+      "direction": "received",
+      "time": "2026-08-25T13:09:30",
+      "raw": "{\"sender\": \"087a62a4-2905-496e-bd77-6cf95b43a47a\", \"answer\": \"你好!\"}",
+      "text": "你好!",
+      "sender_echo": "087a62a4-2905-496e-bd77-6cf95b43a47a"
+    },
+    {
+      "direction": "sent",
+      "time": "2026-08-25T13:09:31",
+      "raw": "{\"sender\": \"087a62a4-2905-496e-bd77-6cf95b43a47a\", \"content\": \"\\u6211\\u5728\\u5b66 WebSocket \\u6293\\u5305\"}",
+      "text": "我在学 WebSocket 抓包"
+    },
+    {
+      "direction": "received",
+      "time": "2026-08-25T13:09:32",
+      "raw": "{\"sender\": \"087a62a4-2905-496e-bd77-6cf95b43a47a\", \"answer\": \"我在学 WebSocket 抓包!\"}",
+      "text": "我在学 WebSocket 抓包!",
+      "sender_echo": "087a62a4-2905-496e-bd77-6cf95b43a47a"
+    },
+    {
+      "direction": "sent",
+      "time": "2026-08-25T13:09:33",
+      "raw": "{\"sender\": \"087a62a4-2905-496e-bd77-6cf95b43a47a\", \"content\": \"\\u8fd9\\u662f\\u7b2c\\u4e09\\u6761\\u6d4b\\u8bd5\\u6d88\\u606f\"}",
+      "text": "这是第三条测试消息"
+    },
+    {
+      "direction": "received",
+      "time": "2026-08-25T13:09:34",
+      "raw": "{\"sender\": \"087a62a4-2905-496e-bd77-6cf95b43a47a\", \"answer\": \"这是第三条测试消息!\"}",
+      "text": "这是第三条测试消息!",
+      "sender_echo": "087a62a4-2905-496e-bd77-6cf95b43a47a"
+    },
+    {
+      "direction": "sent",
+      "time": "2026-08-25T13:09:35",
+      "raw": "{\"sender\": \"087a62a4-2905-496e-bd77-6cf95b43a47a\", \"content\": \"\\u518d\\u89c1\"}",
+      "text": "再见"
+    },
+    {
+      "direction": "received",
+      "time": "2026-08-25T13:09:36",
+      "raw": "{\"sender\": \"087a62a4-2905-496e-bd77-6cf95b43a47a\", \"answer\": \"再见!\"}",
+      "text": "再见!",
+      "sender_echo": "087a62a4-2905-496e-bd77-6cf95b43a47a"
+    }
+  ]
+}

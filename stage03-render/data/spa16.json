@@ -1,0 +1,1933 @@
+[
+  {
+    "id": "7952978",
+    "name": "Wonder",
+    "authors": [
+      "R. J. Palacio"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7916054",
+    "name": "清白家风",
+    "authors": [
+      "董桥",
+      "海豚简装"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7698729",
+    "name": "法老的宠妃 终结篇（上下册）",
+    "authors": [
+      "悠世",
+      "法老的宠妃"
+    ],
+    "score": "7.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7658805",
+    "name": "士为知己（全二册）",
+    "authors": [
+      "蓝色狮"
+    ],
+    "score": "7.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7564736",
+    "name": "那些年，我们一起追的女孩",
+    "authors": [
+      "九把刀",
+      "九把刀作品集·现代版"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7440370",
+    "name": "非我倾城（全三册）",
+    "authors": [
+      "墨舞碧歌"
+    ],
+    "score": "7.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7163250",
+    "name": "明朝那些事儿",
+    "authors": [
+      "当年明月"
+    ],
+    "score": "9.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7154825",
+    "name": "我和你的笑忘书",
+    "authors": [
+      "夏七夕"
+    ],
+    "score": "6.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7154690",
+    "name": "王小波全集 第一卷",
+    "authors": [
+      "王小波",
+      "王小波全集（凤凰壹力2012版）"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7154675",
+    "name": "怦然心动",
+    "authors": [
+      "[美]\n            文德琳·范·德拉安南"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7153409",
+    "name": "龙枪编年史（全3册）",
+    "authors": [
+      "[美] 玛格丽特·魏丝",
+      "[美] 崔西·西克曼"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7067986",
+    "name": "龙枪传奇（全三册）",
+    "authors": [
+      "玛格丽特·魏丝 崔西·西克曼"
+    ],
+    "score": "9.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7067983",
+    "name": "黎明之街",
+    "authors": [
+      "[日]\n            东野圭吾",
+      "新经典文化",
+      "新经典文库·东野圭吾作品"
+    ],
+    "score": "7.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7067149",
+    "name": "认知心理学及其启示",
+    "authors": [
+      "约翰•R•安德森"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7065529",
+    "name": "银河帝国2：基地与帝国",
+    "authors": [
+      "[美]\n            艾萨克·阿西莫夫",
+      "读客文化",
+      "银河帝国"
+    ],
+    "score": "9.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7065521",
+    "name": "银河帝国：基地",
+    "authors": [
+      "[美]\n            艾萨克·阿西莫夫",
+      "读客文化",
+      "银河帝国"
+    ],
+    "score": "9.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7063979",
+    "name": "小学教材全解-四年级语文下",
+    "authors": [
+      "薛金星"
+    ],
+    "score": "7.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7062629",
+    "name": "越界言论（第3卷）",
+    "authors": [
+      "许子东"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7062628",
+    "name": "许子东讲稿-张爱玲.郁达夫.香港文学-卷二",
+    "authors": [
+      "许子东",
+      "许子东讲稿"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7060186",
+    "name": "GOTH断掌事件",
+    "authors": [
+      "[日]\n            乙一",
+      "乐读文库"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7059909",
+    "name": "南音 （上）",
+    "authors": [
+      "笛安",
+      "“龙城”系列"
+    ],
+    "score": "7.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7058564",
+    "name": "第一辩手5·星河的泪痕",
+    "authors": [
+      "双子星罗"
+    ],
+    "score": "6.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7058461",
+    "name": "手绢上的花田",
+    "authors": [
+      "(日)安房直子"
+    ],
+    "score": "9.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7058064",
+    "name": "銀之匙 01",
+    "authors": [
+      "[日]\n            荒川弘",
+      "銀之匙"
+    ],
+    "score": "9.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7057385",
+    "name": "听幾米唱歌",
+    "authors": [
+      "几米 绘"
+    ],
+    "score": "8.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7057187",
+    "name": "陶庵梦忆",
+    "authors": [
+      "张岱"
+    ],
+    "score": "9.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7056685",
+    "name": "天黑以后",
+    "authors": [
+      "[日]\n            村上春树",
+      "新经典文化",
+      "施小炜",
+      "新经典文库·村上春树作品"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7056649",
+    "name": "歧路",
+    "authors": [
+      "脉脉",
+      "渥丹"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7055441",
+    "name": "罗马人的故事1",
+    "authors": [
+      "盐野七生"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7053013",
+    "name": "魔法科高校の劣等生〈3〉",
+    "authors": [
+      "佐島 勤"
+    ],
+    "score": "7.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7047308",
+    "name": "查理九世10·最后的古寺神佛",
+    "authors": [
+      "雷欧幻像",
+      "查理九世"
+    ],
+    "score": "7.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7047307",
+    "name": "查理九世12·失落的海底城",
+    "authors": [
+      "雷欧幻像",
+      "查理九世"
+    ],
+    "score": "7.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7047305",
+    "name": "查理九世11·冥府之船",
+    "authors": [
+      "雷欧幻像",
+      "查理九世"
+    ],
+    "score": "8.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7015296",
+    "name": "最美遇见你",
+    "authors": [
+      "顾西爵"
+    ],
+    "score": "7.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7008029",
+    "name": "指环王1-3合集(3DVD9院线版)",
+    "authors": [],
+    "score": "9.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7007774",
+    "name": "没有意义就没有摇摆",
+    "authors": [
+      "[日]\n            村上春树",
+      "林少华",
+      "村上春树随笔系列"
+    ],
+    "score": "7.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "7004021",
+    "name": "精靈使的劍舞 01",
+    "authors": [
+      "志瑞祐",
+      "桜はんぺん"
+    ],
+    "score": "7.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6998404",
+    "name": "艳势番1",
+    "authors": [
+      "韩露",
+      "艳势番"
+    ],
+    "score": "8.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6991335",
+    "name": "艳阳天",
+    "authors": [
+      "[加拿大]\n            亦舒",
+      "亦舒新经典·中妇版"
+    ],
+    "score": "7.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6977666",
+    "name": "天才魔妃",
+    "authors": [
+      "安知晓"
+    ],
+    "score": "6.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6975925",
+    "name": "设计诗",
+    "authors": [
+      "朱赢椿"
+    ],
+    "score": "7.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6974582",
+    "name": "股票作手回忆录",
+    "authors": [
+      "杰西·利弗莫尔"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6974232",
+    "name": "盗墓笔记8·大结局（上）",
+    "authors": [
+      "南派三叔",
+      "《盗墓笔记》修订版"
+    ],
+    "score": "8.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6974199",
+    "name": "小毛驴与我",
+    "authors": [
+      "[西]\n            胡安·拉蒙·希梅内斯"
+    ],
+    "score": "8.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6973970",
+    "name": "人间失格",
+    "authors": [
+      "[日] 太宰治"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6973831",
+    "name": "十九分钟",
+    "authors": [
+      "[美]\n            朱迪·皮考特",
+      "新经典文库·朱迪•皮考特系列"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6973805",
+    "name": "冰与火之歌（卷一）",
+    "authors": [
+      "[美]\n            乔治·R·R·马丁",
+      "独角兽书系"
+    ],
+    "score": "9.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6971390",
+    "name": "小狗钱钱2",
+    "authors": [
+      "[德]\n            博多·舍费尔"
+    ],
+    "score": "7.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6969098",
+    "name": "碧血剑",
+    "authors": [
+      "金庸"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6969097",
+    "name": "雪山飞狐",
+    "authors": [
+      "金庸"
+    ],
+    "score": "8.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6969096",
+    "name": "连城诀",
+    "authors": [
+      "金庸"
+    ],
+    "score": "8.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6969090",
+    "name": "飞狐外传",
+    "authors": [
+      "金庸"
+    ],
+    "score": "8.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6969061",
+    "name": "侠客行（上下）",
+    "authors": [
+      "金庸",
+      "金庸作品集（朗声旧版）"
+    ],
+    "score": "7.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6967939",
+    "name": "The Hobbit",
+    "authors": [
+      "J. R. R. Tolkien"
+    ],
+    "score": "9.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6967919",
+    "name": "长歌行 01",
+    "authors": [
+      "夏达",
+      "长歌行"
+    ],
+    "score": "8.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6966810",
+    "name": "星空仰望",
+    "authors": [
+      "幾米"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6965824",
+    "name": "张爱玲 她从海上来",
+    "authors": [
+      "艾嘉"
+    ],
+    "score": "6.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6964050",
+    "name": "冰与火之歌·卷一·权力的游戏（全三册）",
+    "authors": [
+      "[美]乔治·R.R.马丁"
+    ],
+    "score": "9.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6964047",
+    "name": "冰与火之歌（卷一）",
+    "authors": [
+      "[美]\n            乔治·R·R·马丁",
+      "独角兽书系"
+    ],
+    "score": "9.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6958239",
+    "name": "文学艺术袖珍馆1（全6册）",
+    "authors": [
+      "戴望舒",
+      "郑振铎"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6957284",
+    "name": "小情歌",
+    "authors": [
+      "徐璐"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6954088",
+    "name": "鲁迅：中国“温和”的尼采",
+    "authors": [
+      "【澳】张钊贻"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6952336",
+    "name": "羊男的圣诞节",
+    "authors": [
+      "[日]\n            村上春树",
+      "林少华",
+      "村上春树文集（新版）"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6952333",
+    "name": "夜半蜘蛛猴",
+    "authors": [
+      "[日]\n            村上春树",
+      "林少华",
+      "村上春树文集（新版）"
+    ],
+    "score": "7.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6952187",
+    "name": "宵山万华镜",
+    "authors": [
+      "[日]\n            森见登美彦",
+      "世纪文景",
+      "森见登美彦作品集"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6952036",
+    "name": "对伪心理学说不",
+    "authors": [
+      "[加拿大]\n            基思·斯坦诺维奇",
+      "新曲线·心理学丛书"
+    ],
+    "score": "9.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6946921",
+    "name": "仰望半月的夜空 07",
+    "authors": [
+      "[日] 桥本纺 著",
+      "[日] 山本启治 绘"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6946709",
+    "name": "小凰不是仙",
+    "authors": [
+      "蜀客"
+    ],
+    "score": "7.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6938838",
+    "name": "碧血劍（全二冊）",
+    "authors": [
+      "金庸"
+    ],
+    "score": "7.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6938136",
+    "name": "倚天屠龍記（新修版）（全四册）",
+    "authors": [
+      "金庸"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6938132",
+    "name": "書劍恩仇錄（新修版）（全二冊）",
+    "authors": [
+      "金庸"
+    ],
+    "score": "7.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6938128",
+    "name": "天龙八部（新修版）（全五册）",
+    "authors": [
+      "金庸"
+    ],
+    "score": "9.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6938126",
+    "name": "碧血剑（新修版）（全二册）",
+    "authors": [
+      "金庸"
+    ],
+    "score": "6.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6937888",
+    "name": "树犹如此",
+    "authors": [
+      "白先勇",
+      "理想国",
+      "理想国·白先勇作品"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6913343",
+    "name": "理性乐观派",
+    "authors": [
+      "[英]\n            马特·里德利",
+      "华章经管"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6904615",
+    "name": "再不相爱就软了",
+    "authors": [
+      "彭浩翔",
+      "铁葫芦·文艺馆"
+    ],
+    "score": "7.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6903227",
+    "name": "魔戒（插图珍藏版）",
+    "authors": [
+      "[英]\n            J·R·R·托尔金",
+      "魔戒系列·译林版"
+    ],
+    "score": "9.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6902322",
+    "name": "白银时代",
+    "authors": [
+      "王小波",
+      "王小波文集（权威典藏版）"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6902320",
+    "name": "我的精神家园",
+    "authors": [
+      "王小波",
+      "王小波文集（权威典藏版）"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6902319",
+    "name": "夜行记",
+    "authors": [
+      "王小波",
+      "王小波文集（权威典藏版）"
+    ],
+    "score": "9.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6902318",
+    "name": "黄金时代",
+    "authors": [
+      "王小波",
+      "王小波文集（权威典藏版）"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6902164",
+    "name": "平行世界·爱情故事",
+    "authors": [
+      "(日)东野圭吾"
+    ],
+    "score": "7.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6902155",
+    "name": "凉宫春日的叹息",
+    "authors": [
+      "[日]\n            谷川流",
+      "绘者\n                        [日]\n                    Noizi ITO",
+      "凉宫春日系列 (译文精装)"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6897140",
+    "name": "The Fault in Our Stars",
+    "authors": [
+      "John Green"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6896252",
+    "name": "麒麟之兵天血地",
+    "authors": [
+      "桔子树",
+      "麒麟"
+    ],
+    "score": "9.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6894127",
+    "name": "張愛玲的文學史意義",
+    "authors": [
+      "許子東"
+    ],
+    "score": "7.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6892579",
+    "name": "美国种族简史",
+    "authors": [
+      "[美]\n            托马斯·索维尔"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6890671",
+    "name": "一天",
+    "authors": [
+      "[英]\n            大卫·尼克斯",
+      "新经典文化",
+      "新经典文库·青鸟文丛"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6890451",
+    "name": "外天楼",
+    "authors": [
+      "石黒正数"
+    ],
+    "score": "9.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6889909",
+    "name": "世界别为我担心",
+    "authors": [
+      "幾米",
+      "幾米系列"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6887522",
+    "name": "花弦月·神魔归位（全二册）",
+    "authors": [
+      "当木当泽"
+    ],
+    "score": "8.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6880158",
+    "name": "陆犯焉识",
+    "authors": [
+      "[美]\n            严歌苓"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6879356",
+    "name": "孙子兵法",
+    "authors": [
+      "孙武",
+      "中华经典名著全本全注全译丛书"
+    ],
+    "score": "9.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6875940",
+    "name": "我为什么要写作",
+    "authors": [
+      "[英]\n            乔治·奥威尔",
+      "董乐山",
+      "小经典系列"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6875468",
+    "name": "闲情记美",
+    "authors": [
+      "资中筠",
+      "理想国",
+      "理想国·资中筠作品"
+    ],
+    "score": "7.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6872645",
+    "name": "Harry Potter Page to Screen",
+    "authors": [
+      "Bob McCabe"
+    ],
+    "score": "9.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6872635",
+    "name": "放学后的秘密花园",
+    "authors": [
+      "神崎貴至"
+    ],
+    "score": "6.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6872620",
+    "name": "孔乙己",
+    "authors": [
+      "鲁迅 原著 程十髮 繪畫"
+    ],
+    "score": "9.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6870500",
+    "name": "無法觸碰的愛",
+    "authors": [
+      "ヨネダコウ"
+    ],
+    "score": "9.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6869069",
+    "name": "鲁迅读过的书",
+    "authors": [
+      "金纲"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6868964",
+    "name": "佳偶天成",
+    "authors": [
+      "十四郎"
+    ],
+    "score": "7.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6862726",
+    "name": "地尽头",
+    "authors": [
+      "[加拿大]\n            亦舒",
+      "亦舒新经典·中妇版"
+    ],
+    "score": "7.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6861664",
+    "name": "白鹿原",
+    "authors": [
+      "陈忠实",
+      "新经典·陈忠实作品"
+    ],
+    "score": "9.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6861142",
+    "name": "心灵的面具",
+    "authors": [
+      "（美）布莱克曼"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6860560",
+    "name": "羽·青空之蓝",
+    "authors": [
+      "沧月",
+      "云荒·羽"
+    ],
+    "score": "7.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6859959",
+    "name": "健全的社会",
+    "authors": [
+      "[美]艾里希·弗洛姆"
+    ],
+    "score": "9.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6856772",
+    "name": "哈利·波特精装全集（套装全7册）",
+    "authors": [
+      "[英]\n            J·K·罗琳"
+    ],
+    "score": "9.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6854996",
+    "name": "心連‧情結 01",
+    "authors": [
+      "庵田定夏",
+      "白身魚"
+    ],
+    "score": "8.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6854620",
+    "name": "你曾住在我心上（全2册）",
+    "authors": [
+      "何宁"
+    ],
+    "score": "6.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6854525",
+    "name": "黑天鹅",
+    "authors": [
+      "纳西姆•尼古拉斯•塔勒布 (Nassim Nicholas Taleb)"
+    ],
+    "score": "8.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6852590",
+    "name": "茨威格画传",
+    "authors": [
+      "高中甫"
+    ],
+    "score": "6.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6852200",
+    "name": "一个人暖呼呼",
+    "authors": [
+      "(日)高木直子"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6847760",
+    "name": "随遇而安",
+    "authors": [
+      "孟非"
+    ],
+    "score": "7.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6835758",
+    "name": "平凡的世界",
+    "authors": [
+      "路遥"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6834237",
+    "name": "三年，五年",
+    "authors": [
+      "小乾隆"
+    ],
+    "score": "",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6832303",
+    "name": "别相信任何人",
+    "authors": [
+      "[英]S.J.沃森"
+    ],
+    "score": "6.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6831113",
+    "name": "爱上读书的妖怪",
+    "authors": [
+      "[韩]李相培 著",
+      "[韩]白明植 绘"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6828611",
+    "name": "小时代3.0：刺金时代",
+    "authors": [
+      "郭敬明",
+      "小时代"
+    ],
+    "score": "6.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6828028",
+    "name": "陷落爱情",
+    "authors": [
+      "高座 朗"
+    ],
+    "score": "",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6827456",
+    "name": "萝铃的魔力4",
+    "authors": [
+      "陈柳环",
+      "萝玲的魔力"
+    ],
+    "score": "6.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6827339",
+    "name": "琅琊榜",
+    "authors": [
+      "海宴"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6827318",
+    "name": "白发皇妃（上下）",
+    "authors": [
+      "莫言殇"
+    ],
+    "score": "6.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6823882",
+    "name": "亦筝笙",
+    "authors": [
+      "风凝雪舞"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6820652",
+    "name": "天才梦（CD）",
+    "authors": [
+      "姚锡娟 朗诵"
+    ],
+    "score": "8.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6815828",
+    "name": "流星雨",
+    "authors": [
+      "三毛",
+      "青马文化",
+      "三毛全集（2011版）"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6815824",
+    "name": "送你一匹马",
+    "authors": [
+      "三毛",
+      "青马文化",
+      "三毛全集（2011版）"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6814760",
+    "name": "一個人暖呼呼",
+    "authors": [
+      "高木直子"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6813394",
+    "name": "曼珠沙华·彼岸花",
+    "authors": [
+      "沧月",
+      "鼎剑阁系列·沧月十周年珍藏版"
+    ],
+    "score": "7.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6811366",
+    "name": "禅与摩托车维修艺术",
+    "authors": [
+      "[美]\n            罗伯特·M·波西格",
+      "华章同人",
+      "重现经典（精装）"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6808344",
+    "name": "鲁迅大全集（全33卷）",
+    "authors": [
+      "鲁迅"
+    ],
+    "score": "9.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6808160",
+    "name": "行者无疆",
+    "authors": [
+      "余秋雨",
+      "文化苦旅全书"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6808159",
+    "name": "千年一叹",
+    "authors": [
+      "余秋雨",
+      "文化苦旅全书"
+    ],
+    "score": "8.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6808046",
+    "name": "最漫画·小祖宗号",
+    "authors": [
+      "郭敬明",
+      "最漫画"
+    ],
+    "score": "7.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6805154",
+    "name": "再生缘（上中下）",
+    "authors": [
+      "墨舞碧歌"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6802423",
+    "name": "哦！爸爸们",
+    "authors": [
+      "[日]\n            伊坂幸太郎",
+      "乐读文库"
+    ],
+    "score": "7.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6802393",
+    "name": "大漠荒颜·帝都赋",
+    "authors": [
+      "沧月",
+      "鼎剑阁系列·沧月十周年珍藏版"
+    ],
+    "score": "7.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6802373",
+    "name": "那些忧伤的年轻人",
+    "authors": [
+      "许知远",
+      "理想国",
+      "理想国·许知远作品"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6802371",
+    "name": "一个游荡者的世界",
+    "authors": [
+      "许知远",
+      "理想国",
+      "理想国·许知远作品"
+    ],
+    "score": "7.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6800930",
+    "name": "人格心理学",
+    "authors": [
+      "[美] 兰迪·拉森",
+      "[美] 戴维·巴斯"
+    ],
+    "score": "8.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6800500",
+    "name": "南音 （下）",
+    "authors": [
+      "笛安",
+      "“龙城”系列"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6799513",
+    "name": "跨国灰姑娘",
+    "authors": [
+      "蓝佩嘉"
+    ],
+    "score": "8.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6799474",
+    "name": "文化与社会",
+    "authors": [
+      "[英]\n            雷蒙·威廉斯",
+      "三辉图书"
+    ],
+    "score": "8.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6799022",
+    "name": "狼与香辛料 02",
+    "authors": [
+      "[日]\n            支仓冻砂",
+      "狼与香辛料"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6798611",
+    "name": "史蒂夫·乔布斯传",
+    "authors": [
+      "[美]\n            沃尔特·艾萨克森"
+    ],
+    "score": "8.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6797700",
+    "name": "自我与本我",
+    "authors": [
+      "[奥地利]\n            西格蒙德·弗洛伊德",
+      "译文经典（精装本）"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6797396",
+    "name": "焚舟纪",
+    "authors": [
+      "[英]\n            安吉拉·卡特",
+      "全本书店"
+    ],
+    "score": "8.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6795834",
+    "name": "浪跡天涯",
+    "authors": [
+      "趙晨光",
+      "清朗"
+    ],
+    "score": "9.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6794021",
+    "name": "红手指",
+    "authors": [
+      "[日] 东野圭吾"
+    ],
+    "score": "7.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6794017",
+    "name": "步步惊心",
+    "authors": [
+      "桐华"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6794016",
+    "name": "如何成为一个怪物",
+    "authors": [
+      "冯唐",
+      "凤凰壹力"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6793874",
+    "name": "武道狂之诗（卷一 之 风从虎•云从龙）",
+    "authors": [
+      "乔靖夫",
+      "武道狂之诗"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6793756",
+    "name": "马戏团之夜",
+    "authors": [
+      "[英]\n            安吉拉·卡特",
+      "精典文库"
+    ],
+    "score": "8.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6793166",
+    "name": "少女不十分",
+    "authors": [
+      "西尾 維新"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6792678",
+    "name": "杉杉来吃",
+    "authors": [
+      "顾漫"
+    ],
+    "score": "6.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6791779",
+    "name": "许我向你看",
+    "authors": [
+      "辛夷坞",
+      "辛夷坞作品（全新修订版）"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6789605",
+    "name": "树上的男爵",
+    "authors": [
+      "[意大利]伊塔洛·卡尔维诺"
+    ],
+    "score": "9.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6785995",
+    "name": "梦回都灵",
+    "authors": [
+      "[日]\n            东野圭吾",
+      "99读书人",
+      "东野圭吾作品"
+    ],
+    "score": "5.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6784976",
+    "name": "圣女的救济",
+    "authors": [
+      "[日]\n            东野圭吾",
+      "乐读文库"
+    ],
+    "score": "7.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6784975",
+    "name": "伽利略的苦恼",
+    "authors": [
+      "[日]\n            东野圭吾",
+      "乐读文库"
+    ],
+    "score": "7.3",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6784963",
+    "name": "印度之歌",
+    "authors": [
+      "[法]\n            玛格丽特·杜拉斯",
+      "玛格丽特·杜拉斯作品系列"
+    ],
+    "score": "7.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6784155",
+    "name": "朝花夕拾",
+    "authors": [
+      "鲁迅",
+      "中外文学名著典藏系列"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6784039",
+    "name": "你若安好便是晴天",
+    "authors": [
+      "白落梅"
+    ],
+    "score": "5.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6782521",
+    "name": "凤囚凰",
+    "authors": [
+      "天衣有风"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6781808",
+    "name": "杀死一只知更鸟",
+    "authors": [
+      "[美]\n            哈珀·李",
+      "译林纪念版"
+    ],
+    "score": "9.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6781794",
+    "name": "过于喧嚣的孤独",
+    "authors": [
+      "(捷克) 赫拉巴尔"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6778589",
+    "name": "我的粉色系玩具",
+    "authors": [
+      "わたなべあじあ"
+    ],
+    "score": "7.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6773643",
+    "name": "橘生淮南·暗恋",
+    "authors": [
+      "八月长安",
+      "新华先锋",
+      "“振华”系列"
+    ],
+    "score": "8.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6759256",
+    "name": "你就是孩子最好的玩具",
+    "authors": [
+      "金伯莉·布雷恩"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6758677",
+    "name": "汉文学史纲要",
+    "authors": [
+      "鲁迅"
+    ],
+    "score": "9.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6758596",
+    "name": "全国优秀儿童文学奖获奖作家书系.像花儿一样绽放",
+    "authors": [
+      "王巨成"
+    ],
+    "score": "",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6757194",
+    "name": "碎片，令人怀念的1980年代",
+    "authors": [
+      "(日)村上春树"
+    ],
+    "score": "6.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6756232",
+    "name": "冰菓",
+    "authors": [
+      "米澤穗信"
+    ],
+    "score": "7.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6755973",
+    "name": "野草",
+    "authors": [
+      "鲁迅"
+    ],
+    "score": "9.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6754574",
+    "name": "Thinking, Fast and Slow",
+    "authors": [
+      "[美]\n            Daniel Kahneman"
+    ],
+    "score": "8.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6753739",
+    "name": "大方 No.2",
+    "authors": [
+      "安妮宝贝（庆山）",
+      "大方"
+    ],
+    "score": "7.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6751052",
+    "name": "素年锦时",
+    "authors": [
+      "安妮宝贝（庆山）",
+      "新经典文化",
+      "安妮宝贝十年修订典藏文集"
+    ],
+    "score": "7.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6751046",
+    "name": "莲花",
+    "authors": [
+      "安妮宝贝（庆山）",
+      "安妮宝贝十年修订典藏文集"
+    ],
+    "score": "8.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6751043",
+    "name": "清醒纪",
+    "authors": [
+      "安妮宝贝（庆山）",
+      "新经典文化",
+      "安妮宝贝十年修订典藏文集"
+    ],
+    "score": "7.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6751039",
+    "name": "蔷薇岛屿",
+    "authors": [
+      "安妮宝贝（庆山）",
+      "新经典文化",
+      "安妮宝贝十年修订典藏文集"
+    ],
+    "score": "7.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6751038",
+    "name": "彼岸花",
+    "authors": [
+      "安妮宝贝（庆山）",
+      "安妮宝贝十年修订典藏文集"
+    ],
+    "score": "7.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6751036",
+    "name": "八月未央",
+    "authors": [
+      "安妮宝贝（庆山）",
+      "安妮宝贝十年修订典藏文集"
+    ],
+    "score": "7.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6751027",
+    "name": "告别薇安",
+    "authors": [
+      "安妮宝贝（庆山）",
+      "新经典文化",
+      "安妮宝贝十年修订典藏文集"
+    ],
+    "score": "7.2",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6748307",
+    "name": "夢中的橄欖樹",
+    "authors": [
+      "三毛",
+      "三毛典藏 Echo Legacy"
+    ],
+    "score": "8.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6746289",
+    "name": "新参者",
+    "authors": [
+      "[日] 东野圭吾"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6744767",
+    "name": "我们内心的冲突",
+    "authors": [
+      "[美]\n            卡伦·霍尼",
+      "校注\n                    陈维正",
+      "汉译经典"
+    ],
+    "score": "9.0",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6744648",
+    "name": "与拉玛相会",
+    "authors": [
+      "[英]\n            阿瑟·克拉克",
+      "科幻世界",
+      "世界科幻大师丛书"
+    ],
+    "score": "8.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6744647",
+    "name": "色，戒",
+    "authors": [
+      "张爱玲"
+    ],
+    "score": "8.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6742586",
+    "name": "我不是潘金莲",
+    "authors": [
+      "刘震云",
+      "长江新世纪",
+      "刘震云作品"
+    ],
+    "score": "7.8",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6732523",
+    "name": "牛虻",
+    "authors": [
+      "[爱尔兰] 埃·莉·伏尼契"
+    ],
+    "score": "8.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6732193",
+    "name": "十年一品温如言",
+    "authors": [
+      "书海沧生"
+    ],
+    "score": "7.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6731566",
+    "name": "一个人去跑步",
+    "authors": [
+      "高木直子"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6730936",
+    "name": "扶摇皇后·终结篇（上下）",
+    "authors": [
+      "天下归元",
+      "扶摇皇后"
+    ],
+    "score": "7.9",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6730832",
+    "name": "麒麟之快意人生",
+    "authors": [
+      "桔子樹",
+      "麒麟"
+    ],
+    "score": "9.5",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6730473",
+    "name": "那时年少",
+    "authors": [
+      "一草",
+      "优阅吧"
+    ],
+    "score": "6.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6730371",
+    "name": "麒麟之生死與共",
+    "authors": [
+      "桔子樹",
+      "麒麟"
+    ],
+    "score": "9.4",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6727767",
+    "name": "鲁迅与书籍装帧",
+    "authors": [
+      "上海鲁迅纪念馆",
+      "中国美术家协会上海分会",
+      "上海人民美术出版社"
+    ],
+    "score": "8.1",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6724538",
+    "name": "贝类少年",
+    "authors": [
+      "李枫"
+    ],
+    "score": "6.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6722555",
+    "name": "曾有一个人爱我如生命",
+    "authors": [
+      "舒仪",
+      "优阅吧"
+    ],
+    "score": "7.7",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6720614",
+    "name": "失落的英雄",
+    "authors": [
+      "[美]\n            雷克·莱尔顿",
+      "奥林匹斯英雄系列"
+    ],
+    "score": "8.6",
+    "http_version": "HTTP/2"
+  },
+  {
+    "id": "6719724",
+    "name": "死了七次的男人",
+    "authors": [
+      "[日]\n            西泽保彦",
+      "午夜文库·日系佳作：西泽保彦作品"
+    ],
+    "score": "8.1",
+    "http_version": "HTTP/2"
+  }
+]
