@@ -8,14 +8,14 @@
 
 | 案例 | 脚本 | 状态 | 踩坑记录 |
 |---|---|---|---|
-| [antispider1](https://antispider1.scrape.center) | `antispider1.py` | 未开始 | |
-| [antispider2](https://antispider2.scrape.center) | `antispider2.py` | 未开始 | |
-| [antispider3](https://antispider3.scrape.center) | `antispider3.py` | 未开始 | |
-| [antispider4](https://antispider4.scrape.center) | `antispider4.py` | 未开始 | |
-| [antispider5](https://antispider5.scrape.center) | `antispider5.py` | 未开始 | |
-| [antispider6](https://antispider6.scrape.center) | `antispider6.py` | 未开始 | |
-| [antispider7](https://antispider7.scrape.center) | `antispider7.py` | 未开始 | |
-| [tool1](https://proxypool.scrape.center/random) | `tool1.py` | 未开始 | |
+| [antispider1](https://antispider1.scrape.center) | `antispider1.py` | 已完成 | 一开始把"对照组"和"实验组"放在同一个浏览器里跑，结果对照组也显示 `webdriver=False`。原因是 `--disable-blink-features=AutomationControlled` 是**整个浏览器**级别的开关，一加全都生效。改成对照组单开一个干净浏览器，才真的看到 `Webdriver Forbidden.` |
+| [antispider2](https://antispider2.scrape.center) | `antispider2.py` | 已完成 | 没踩坑。实测默认 UA `python-requests/2.34.2` 直接 403，换成 Chrome UA 立刻 200 —— 一行代码的事 |
+| [antispider3](https://antispider3.scrape.center) | `antispider3.py` | 已完成 | 按 `left` 排序还原后，跟站点 API 的标准答案一比只有 95.6% 对得上。差的 4 本全是**书名里的空格丢了**：空格也占一个 `<span>`，但 span 里本来就有换行缩进，`strip()` 之后变成空字符串，一拼接就没了。约定"抠出来是空的就是空格"之后，准确率 100% |
+| [antispider4](https://antispider4.scrape.center) | `antispider4.py` | 已完成 | ① 用 fontTools 读 cmap 发现**字体根本没做字形错位**（`0→zero`…`9→nine` 全是标准名），秘密 100% 在 CSS 那张乱序查找表里 —— 这个"排除"很重要，省得去啃字形轮廓比对。② 站点 API 说共 104 部，但前端翻到第 11 页是空的（分页上限），只能抓到 100 部，如实记录 |
+| [antispider5](https://antispider5.scrape.center) | `antispider5.py` | 已完成 | 故意连打，**第 11 次开始 403**（响应里没有 `Retry-After` 头，只能自己定退避时长）。被封后代理路线真的救了场：第一个代理走 HTTPS 时 SSLError 挂掉，弃用换第二个才通 —— 所以代理必须能"用坏了就换"，不能拿到就当它永远好使 |
+| [antispider6](https://antispider6.scrape.center) | `antispider6.py` | 已完成 | 登录接口不是首页：POST 到 `/` 会被 302 到 `/login?next=/`，真正的入口是 `/login`（表单形式，凭证 `admin`/`admin` 实测有效）。**第 11 次开始 403**；关键实验：同一个 IP 上注册的新账号立刻就能访问 ⇒ 它数的是**账号**不是 IP，所以买代理在这里完全没用。**最硬的坑**：正式抓取到第 10 页又被封了 —— 因为实验二里验证新账号可用时已经消耗掉 1 次配额，加上正式抓的 9 页正好是第 11 次。退避逻辑扛住了，第 11 轮（约 11 分钟后）拿到数据，10 页齐全 |
+| [antispider7](https://antispider7.scrape.center) | `antispider7.py` | 已完成 | 前端是 Vue SPA，接口是从 `app.js` 里读出来的（`/api/login`、`/api/register`、`/api/book`），登录用 JWT，请求头写 `Authorization: jwt <token>`。**第 11 次开始 403**；两个对照实验都做出了决定性结果：换新账号（IP 不变）→ 仍 403；换代理 IP（账号不变）→ 仍 403。两个计数器确实各自独立 |
+| [tool1](https://proxypool.scrape.center/random) | `proxy_pool.py` | 已完成 | 作业模板里叫 `tool1.py`，这里按任务要求命名成 `proxy_pool.py`（它是个被别人 import 的模块，不是独立案例）。**本次实测可用率 4/10 = 40%**，失效的 5 个里 3 个 ProxyError、2 个 ReadTimeout。注意"能上网"≠"能访问目标站"：实测有代理能过 httpbin，却在连 scrape.center 时 SSLError |
 
 > 每完成一个案例，把「状态」改成 `已完成`，并在「踩坑记录」里写一句你卡在哪、怎么解决的。
 > 同时回 issue #6 把对应的 checkbox 勾上 —— 两边都要更新，这是本仓库的硬规则（见根目录 CLAUDE.md）。
@@ -23,3 +23,59 @@
 ## 数据输出
 
 抓到的数据统一存进 `stage05-antispider/data/`，文件名与脚本同名，例如 `antispider1.json`。
+
+本次实际产出：
+
+| 文件 | 条数 | 说明 |
+|---|---|---|
+| `antispider1.json` | 100 | 10 页电影全抓到 |
+| `antispider2.json` | 100 | 10 页电影全抓到 |
+| `antispider3.json` | 90 | 5 页图书；每条同时存了 `name_raw`（源码里的错乱顺序）和 `name`（还原后），方便对照。90 本里有 50 本源码顺序是被打乱的 |
+| `antispider4.json` | 100 | 10 页电影；每条存了 `score_raw`（源码里的 class 后缀）和 `score`（翻译后） |
+| `antispider5.json` | 100 | 10 页电影全抓到（中途靠代理绕过了一次封禁） |
+| `antispider6.json` | 100 | 10 页电影全抓到，但第 10 页在退避第 11 轮才成功（见下方「最硬的坑」） |
+| `antispider7.json` | 90 | 5 页图书；限于双重限频，只抓 5 页（站点共 9040 本） |
+| `antispider4_font.woff` | — | 从站点下载的自定义字体，留作证据 |
+
+## 怎么跑
+
+```bash
+./venv/bin/python stage05-antispider/antispider1.py     # 每个脚本都能独立运行
+./venv/bin/python stage05-antispider/proxy_pool.py      # 模块自测：取 10 个代理验证可用率
+```
+
+⚠️ `antispider5/6/7` 会**故意触发一次封禁**做实验，然后按 31 秒/次的温柔速率抓取，
+单个脚本跑完要 5～20 分钟（本次 antispider6 跑了约 20 分钟，因为末尾撞上一次封禁）。这是设计如此，不是卡住了。
+
+## 八种反爬手段速查表
+
+这是本阶段最值得反复看的一张表。左边是招式，右边是破法。
+
+| # | 反爬手段 | 它怎么认出你 | 破解思路 | 难度 |
+|---|---|---|---|---|
+| 1 | **WebDriver 检测**<br>(antispider1) | 读 `navigator.webdriver`。浏览器被程序操控时会**自己**把这个标志位设成 `true`（W3C 规范要求的），等于自曝身份 | 用 `page.add_init_script()` 在网站脚本执行**之前**把它改成 `undefined`；启动时再加 `--disable-blink-features=AutomationControlled` 双保险。顺序是关键，页面加载完再改就晚了 | ★★☆☆☆ |
+| 2 | **User-Agent 检测**<br>(antispider2) | 看请求头里的自我介绍。`python-requests/2.34.2` 等于举牌子说"我是爬虫" | 换成真实 Chrome 的 UA 字符串。UA 只是个普通字符串，服务器**无法验证真伪** | ★☆☆☆☆ |
+| 3 | **文字偏移**<br>(antispider3) | 不认爬虫，改让你**抓到错的**。每个字一个 `<span>`，源码顺序是打乱的，靠 CSS `left` 绝对定位摆回原位 —— 眼睛看着对，`get_text()` 拿到的是乱的 | 把所有 span 按 `left` 数值（转 int 再比！）从小到大排序再拼接。注意空格也占一格 | ★★★☆☆ |
+| 4 | **字体/CSS 伪装**<br>(antispider4) | HTML 里是空标签 `<i class="icon-789">`，数字写在 CSS 的 `::before` 里，class 名是乱编的。`::before` 是伪元素，**不属于文档** —— 这就是"网页上看得见却复制不到"的原因 | 下载 CSS，正则抠出 `.icon-XXX:before{content:"Y"}` 的对照表；再用 fontTools 读字体 `cmap` 确认字形有没有二次错位 | ★★★★☆ |
+| 5 | **IP 限频**<br>(antispider5) | 只数频率，不判断你是不是爬虫。同 IP 5 分钟 10 次，超了封 10 分钟。**频率是最难伪造的特征** —— UA 能编，webdriver 能改，但你想抓得快就必然暴露 | ① 代理池换 IP（每个 IP 一份额度）② 算清额度放慢到 31 秒/次 ③ 兜底：认出 403 就退避等待，**绝不硬撞**（理由见下方心得 3 —— 不是网上常说的那个） | ★★★☆☆ |
+| 6 | **账号限频**<br>(antispider6) | 计数的"篮子"从 IP 换成账号：靠 `sessionid` Cookie 认人，同账号 5 分钟 10 次。比数 IP 更精准 —— 办公室共用一个出口 IP，按 IP 封会误伤 | **换 IP 完全无效**，得换账号：养一批号轮着用，或者放慢。已实测：同 IP 新账号立刻可用 | ★★★☆☆ |
+| 7 | **IP + 账号双重限频**<br>(antispider7) | 两个计数器同时跑，**任意一个超标就拦**。堵死了单点绕过 | 必须 **IP 和账号成对地换**（一个代理配一个账号）。它的真正意图不是拦死你，是把成本抬到不划算 | ★★★★☆ |
+| 8 | **（工具）代理池**<br>`proxy_pool.py` | — | 取代理 → **先验证再用** → 用坏了剔除。公开免费代理绝大多数是坏的，两次实测分别为 **4/10** 和 **5/10**（这个数字每次都不一样，见下方说明），而且"能上网"≠"能访问目标站"。真实项目要买付费代理 | ★★☆☆☆ |
+
+### 关于代理可用率这个数字
+
+本目录先后测了两次，得到 **4/10 = 40%** 和 **5/10 = 50%**。
+
+**这不是哪一次测错了 —— 这个数字天然不可复现。** 公开代理池的成员每分钟都在变，同一个代理这一秒能用、下一秒就死。所以：
+
+- 不要把它当成一个「本站代理可用率是 40%」的结论去引用
+- 该记住的是**量级**：公开免费代理**有一半左右是坏的**，且随时会坏
+- 真正的工程结论只有一条：**代理必须"先验证再用、用坏了就换"，绝不能拿到手就当它永远好使**
+
+> 顺带一个通用原则：**测量值要区分「稳定量」和「波动量」**。翻译准确率 100% 是稳定量，重跑还是 100%，可以当结论；代理可用率是波动量，只能当量级参考。把波动量当结论写进文档，是很常见的一种自欺。
+
+### 三条通用心得
+
+1. **反爬分两大类**：一类是**拦住你**（1、2、5、6、7 —— 不给数据），一类是**骗过你**（3、4 —— 给你假数据，你还以为成功了）。第二类更阴险，一定要有"跟标准答案比对"的验证环节。本目录里 antispider3/4 都做了准确率自检，都是 100%。
+2. **频率类反爬没有"破解"，只有"配合"**。伪装类的（UA、webdriver）是一次性成本，改一行代码永久有效；频率类的是持续成本（买代理、养号、耗时间）。所以频率限制才是最实用的一道防线。
+3. **别硬撞**。被封了就退避等待。顺带纠正一个流传很广的说法：常听人讲"硬撞会让封禁计时不断重置"，本阶段**没有**测到这个现象 —— antispider6 被封后每 60 秒重试一次，第 11 轮就恢复了，跟站点声明的 10 分钟对得上。不硬撞的真正理由朴素得多：撞了也拿不到数据，纯属白白给别人的服务器添堵。练习站点是别人免费提供的。
