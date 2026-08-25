@@ -1,0 +1,883 @@
+[
+  {
+    "id": "34473697",
+    "name": "R数据科学实战：工具详解与案例分析",
+    "authors": [
+      "刘健",
+      "邬书豪"
+    ],
+    "score": "8.9",
+    "cover": null
+  },
+  {
+    "id": "34790654",
+    "name": "Greenplum：从大数据战略到实现",
+    "authors": [
+      "冯雷",
+      "姚延栋",
+      "高小明",
+      "杨瑜"
+    ],
+    "score": "8.9",
+    "cover": null
+  },
+  {
+    "id": "34893933",
+    "name": "江湖外史（2019精装版）",
+    "authors": [
+      "王怜花"
+    ],
+    "score": "8.3",
+    "cover": "https://cdn.scrape.center/book/s33523792.jpg"
+  },
+  {
+    "id": "17707842",
+    "name": null,
+    "authors": null,
+    "score": null,
+    "cover": null
+  },
+  {
+    "id": "27080632",
+    "name": "Streaming Systems",
+    "authors": [
+      "Tyler Akidau",
+      "Slava Chernyak",
+      "Reuven Lax"
+    ],
+    "score": " 8.9 ",
+    "cover": null
+  },
+  {
+    "id": "1046276",
+    "name": "温暖和百感交集的旅程",
+    "authors": [
+      "\n            余华",
+      "余华作品系列"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s1120387.jpg"
+  },
+  {
+    "id": "25862578",
+    "name": "解忧杂货店",
+    "authors": [
+      "\n                [日]\n            东野圭吾",
+      "新经典文化",
+      "新经典文库·东野圭吾作品"
+    ],
+    "score": "8.5",
+    "cover": "https://cdn.scrape.center/book/s27264181.jpg"
+  },
+  {
+    "id": "10554308",
+    "name": "白夜行",
+    "authors": [
+      "[日] 东野圭吾"
+    ],
+    "score": "9.2",
+    "cover": "https://cdn.scrape.center/book/s24514468.jpg"
+  },
+  {
+    "id": "4913064",
+    "name": "活着",
+    "authors": [
+      "余华"
+    ],
+    "score": "9.4",
+    "cover": "https://cdn.scrape.center/book/s29053580.jpg"
+  },
+  {
+    "id": "6015822",
+    "name": "在细雨中呼喊",
+    "authors": [
+      "\n            余华",
+      "余华作品（2008版）"
+    ],
+    "score": "8.5",
+    "cover": "https://cdn.scrape.center/book/s6309302.jpg"
+  },
+  {
+    "id": "10594787",
+    "name": "霍乱时期的爱情",
+    "authors": [
+      "[哥伦比亚] 加西亚·马尔克斯"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s11284102.jpg"
+  },
+  {
+    "id": "27064488",
+    "name": "活着",
+    "authors": [
+      "余华"
+    ],
+    "score": "9.4",
+    "cover": "https://cdn.scrape.center/book/s29652928.jpg"
+  },
+  {
+    "id": "1974038",
+    "name": "南腔北调集",
+    "authors": [
+      "鲁迅"
+    ],
+    "score": "8.6",
+    "cover": "https://cdn.scrape.center/book/s2126995.jpg"
+  },
+  {
+    "id": "1491325",
+    "name": "皮皮鲁和梦中人",
+    "authors": [
+      "\n            郑渊洁",
+      "皮皮鲁总动员"
+    ],
+    "score": "8.7",
+    "cover": "https://cdn.scrape.center/book/s26739368.jpg"
+  },
+  {
+    "id": "6082808",
+    "name": "百年孤独",
+    "authors": [
+      "\n                [哥伦比亚]\n            加西亚·马尔克斯",
+      "新经典文化",
+      "\n            范晔",
+      "新经典文库：加西亚·马尔克斯作品"
+    ],
+    "score": "9.2",
+    "cover": "https://cdn.scrape.center/book/s6384944.jpg"
+  },
+  {
+    "id": "34672176",
+    "name": "呼吸",
+    "authors": [
+      "[美] 特德·姜"
+    ],
+    "score": "8.6",
+    "cover": "https://cdn.scrape.center/book/s33519539.jpg"
+  },
+  {
+    "id": "34434309",
+    "name": "82年生的金智英",
+    "authors": [
+      "[韩]赵南柱"
+    ],
+    "score": "7.9",
+    "cover": "https://cdn.scrape.center/book/s33463759.jpg"
+  },
+  {
+    "id": "1200840",
+    "name": "平凡的世界（全三部）",
+    "authors": [
+      "\n            路遥",
+      "茅盾文学奖获奖作品全集"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s1144911.jpg"
+  },
+  {
+    "id": "1068920",
+    "name": "飘",
+    "authors": [
+      "\n                [美]\n            玛格丽特·米切尔"
+    ],
+    "score": "9.3",
+    "cover": "https://cdn.scrape.center/book/s1078958.jpg"
+  },
+  {
+    "id": "4820710",
+    "name": "1984",
+    "authors": [
+      "\n                [英]\n            乔治·奥威尔",
+      "新经典文化",
+      "\n            刘绍铭",
+      "新经典文库·桂冠文丛"
+    ],
+    "score": "9.3",
+    "cover": "https://cdn.scrape.center/book/s4371408.jpg"
+  },
+  {
+    "id": "1057244",
+    "name": "边城",
+    "authors": [
+      "\n            沈从文",
+      "\n            黄永玉",
+      "绘者\n                    卓雅",
+      "沈从文作品(插图本)"
+    ],
+    "score": "8.7",
+    "cover": "https://cdn.scrape.center/book/s1595557.jpg"
+  },
+  {
+    "id": "1512582",
+    "name": "射雕英雄传（全四册）",
+    "authors": [
+      "\n            金庸",
+      "金庸武侠全集评点本"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s2988680.jpg"
+  },
+  {
+    "id": "1491320",
+    "name": "皮皮鲁和419宗罪",
+    "authors": [
+      "\n            郑渊洁",
+      "皮皮鲁总动员"
+    ],
+    "score": "8.0",
+    "cover": "https://cdn.scrape.center/book/s26716143.jpg"
+  },
+  {
+    "id": "1858410",
+    "name": "万历十五年",
+    "authors": [
+      "\n                [美]\n            黄仁宇"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s1790028.jpg"
+  },
+  {
+    "id": "3211779",
+    "name": "嫌疑人X的献身",
+    "authors": [
+      "\n                [日]\n            东野圭吾",
+      "新经典文化",
+      "新经典文库·东野圭吾作品"
+    ],
+    "score": "8.9",
+    "cover": "https://cdn.scrape.center/book/s3254244.jpg"
+  },
+  {
+    "id": "1084336",
+    "name": "小王子",
+    "authors": [
+      "\n                [法]\n            安东尼·德·圣-埃克苏佩里"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s1103152.jpg"
+  },
+  {
+    "id": "1023045",
+    "name": "我们仨",
+    "authors": [
+      "\n            杨绛"
+    ],
+    "score": "8.7",
+    "cover": "https://cdn.scrape.center/book/s1015872.jpg"
+  },
+  {
+    "id": "27614904",
+    "name": "房思琪的初恋乐园",
+    "authors": [
+      "\n            林奕含",
+      "磨铁图书"
+    ],
+    "score": "9.2",
+    "cover": "https://cdn.scrape.center/book/s29651121.jpg"
+  },
+  {
+    "id": "30475767",
+    "name": "人生海海",
+    "authors": [
+      "麦家"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s32266692.jpg"
+  },
+  {
+    "id": "26954760",
+    "name": "月亮与六便士",
+    "authors": [
+      "[英] 威廉·萨默塞特·毛姆"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s29634528.jpg"
+  },
+  {
+    "id": "1361264",
+    "name": "撒哈拉的故事",
+    "authors": [
+      "\n            三毛",
+      "三毛全集"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s3563113.jpg"
+  },
+  {
+    "id": "1792128",
+    "name": "书剑恩仇录（上下）",
+    "authors": [
+      "\n            金庸",
+      "金庸作品集（朗声新修版·口袋本）"
+    ],
+    "score": "7.5",
+    "cover": "https://cdn.scrape.center/book/s6826127.jpg"
+  },
+  {
+    "id": "1907739",
+    "name": "当世界年纪还小的时候",
+    "authors": [
+      "[德] 于尔克·舒比格 著",
+      "[德] 罗特劳特·苏珊娜·贝尔纳 图"
+    ],
+    "score": "8.6",
+    "cover": "https://cdn.scrape.center/book/s1886517.jpg"
+  },
+  {
+    "id": "1885224",
+    "name": "傲慢与偏见",
+    "authors": [
+      "\n                [英]\n            简·奥斯汀",
+      "译文名著文库"
+    ],
+    "score": "8.9",
+    "cover": "https://cdn.scrape.center/book/s1989274.jpg"
+  },
+  {
+    "id": "1449352",
+    "name": "朝花夕拾",
+    "authors": [
+      "\n            鲁迅",
+      "鲁迅作品集"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s2875823.jpg"
+  },
+  {
+    "id": "20427187",
+    "name": "看见",
+    "authors": [
+      "柴静"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s24468373.jpg"
+  },
+  {
+    "id": "33459737",
+    "name": "书店日记",
+    "authors": [
+      "[英] 肖恩·白塞尔"
+    ],
+    "score": "8.3",
+    "cover": "https://cdn.scrape.center/book/s33441355.jpg"
+  },
+  {
+    "id": "26281913",
+    "name": "镇魂",
+    "authors": [
+      "priest"
+    ],
+    "score": "7.9",
+    "cover": "https://cdn.scrape.center/book/s27964123.jpg"
+  },
+  {
+    "id": "1209899",
+    "name": "我与地坛",
+    "authors": [
+      "\n            史铁生",
+      "新经典文库"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s1151479.jpg"
+  },
+  {
+    "id": "26278687",
+    "name": "皮囊",
+    "authors": [
+      "\n            蔡崇达",
+      "果麦文化"
+    ],
+    "score": "7.6",
+    "cover": "https://cdn.scrape.center/book/s27943411.jpg"
+  },
+  {
+    "id": "1962923",
+    "name": "西班牙旅行笔记",
+    "authors": [
+      "\n            林达",
+      "林达作品系列"
+    ],
+    "score": "8.6",
+    "cover": "https://cdn.scrape.center/book/s3982801.jpg"
+  },
+  {
+    "id": "2052448",
+    "name": "明朝那些事儿（叁）",
+    "authors": [
+      "\n            当年明月",
+      "明朝那些事儿"
+    ],
+    "score": "8.9",
+    "cover": "https://cdn.scrape.center/book/s2544553.jpg"
+  },
+  {
+    "id": "1088581",
+    "name": "浮生六记",
+    "authors": [
+      "（清）沈复"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s2280094.jpg"
+  },
+  {
+    "id": "1883245",
+    "name": "诗经",
+    "authors": [
+      "\n            孔丘",
+      "家庭书架·传世经典读库"
+    ],
+    "score": "9.4",
+    "cover": "https://cdn.scrape.center/book/s1979223.jpg"
+  },
+  {
+    "id": "4760224",
+    "name": "许三观卖血记",
+    "authors": [
+      "\n            余华",
+      "余华作品（2012版）"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s24575140.jpg"
+  },
+  {
+    "id": "1054685",
+    "name": "沉默的大多数",
+    "authors": [
+      "\n            王小波",
+      "王小波作品系列"
+    ],
+    "score": "9.1",
+    "cover": "https://cdn.scrape.center/book/s1447349.jpg"
+  },
+  {
+    "id": "1043815",
+    "name": "骆驼祥子",
+    "authors": [
+      "\n            老舍"
+    ],
+    "score": "8.4",
+    "cover": "https://cdn.scrape.center/book/s1146040.jpg"
+  },
+  {
+    "id": "1011754",
+    "name": "海子的诗",
+    "authors": [
+      "海子"
+    ],
+    "score": "8.9",
+    "cover": "https://cdn.scrape.center/book/s1067491.jpg"
+  },
+  {
+    "id": "1013267",
+    "name": "唐诗三百首",
+    "authors": [
+      "蘅塘退士",
+      "陈婉俊"
+    ],
+    "score": "9.3",
+    "cover": "https://cdn.scrape.center/book/s1008848.jpg"
+  },
+  {
+    "id": "30264909",
+    "name": "忽远忽近",
+    "authors": [
+      "幾米"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s29809982.jpg"
+  },
+  {
+    "id": "2052596",
+    "name": "退步集续编",
+    "authors": [
+      "\n            陈丹青",
+      "理想国",
+      "理想国·陈丹青作品"
+    ],
+    "score": "8.2",
+    "cover": "https://cdn.scrape.center/book/s2397290.jpg"
+  },
+  {
+    "id": "3040352",
+    "name": "那些风花雪月",
+    "authors": [
+      "\n            公子欢喜"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s3029724.jpg"
+  },
+  {
+    "id": "3074810",
+    "name": "穿越与反穿越",
+    "authors": [
+      "\n            桃之舟"
+    ],
+    "score": "7.3",
+    "cover": "https://cdn.scrape.center/book/s3205387.jpg"
+  },
+  {
+    "id": "1082138",
+    "name": "在细雨中呼喊",
+    "authors": [
+      "\n            余华",
+      "余华作品"
+    ],
+    "score": "8.4",
+    "cover": "https://cdn.scrape.center/book/s1336441.jpg"
+  },
+  {
+    "id": "1082154",
+    "name": "活着",
+    "authors": [
+      "\n            余华",
+      "余华作品"
+    ],
+    "score": "9.1",
+    "cover": "https://cdn.scrape.center/book/s23836852.jpg"
+  },
+  {
+    "id": "1401425",
+    "name": "兄弟（上）",
+    "authors": [
+      "\n            余华",
+      "兄弟"
+    ],
+    "score": "8.3",
+    "cover": "https://cdn.scrape.center/book/s1427312.jpg"
+  },
+  {
+    "id": "1767945",
+    "name": "一只特立独行的猪",
+    "authors": [
+      "\n            王小波",
+      "华文天下",
+      "王小波作品选集"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s1670642.jpg"
+  },
+  {
+    "id": "26685994",
+    "name": "给青年诗人的信",
+    "authors": [
+      "\n                [奥地利]\n            莱内·马利亚·里尔克",
+      "雅众文化",
+      "雅众·文学馆"
+    ],
+    "score": "9.0",
+    "cover": "https://cdn.scrape.center/book/s28378127.jpg"
+  },
+  {
+    "id": "3112726",
+    "name": "希腊棺材之谜",
+    "authors": [
+      "\n                [美]\n            埃勒里·奎因",
+      "午夜文库·大师系列：埃勒里·奎因作品"
+    ],
+    "score": "8.4",
+    "cover": "https://cdn.scrape.center/book/s3140807.jpg"
+  },
+  {
+    "id": "3797733",
+    "name": "巧克力味的暑假/阳光姐姐小书房",
+    "authors": [
+      "\n            伍美珍",
+      "阳光姐姐小书房"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s6510823.jpg"
+  },
+  {
+    "id": "3297888",
+    "name": "云雀叫了一整天",
+    "authors": [
+      "木心"
+    ],
+    "score": "8.5",
+    "cover": "https://cdn.scrape.center/book/s3381125.jpg"
+  },
+  {
+    "id": "3369793",
+    "name": "亲爱的安德烈",
+    "authors": [
+      "龙应台",
+      "[德] 安德烈"
+    ],
+    "score": "8.6",
+    "cover": "https://cdn.scrape.center/book/s3993878.jpg"
+  },
+  {
+    "id": "4238362",
+    "name": "送你一颗子弹",
+    "authors": [
+      "\n            刘瑜",
+      "刘瑜作品系列"
+    ],
+    "score": "8.6",
+    "cover": "https://cdn.scrape.center/book/s4243447.jpg"
+  },
+  {
+    "id": "1865089",
+    "name": "瓦尔登湖",
+    "authors": [
+      "\n            亨利·戴维·梭罗",
+      "\n            徐迟",
+      "译文名著文库"
+    ],
+    "score": "8.4",
+    "cover": "https://cdn.scrape.center/book/s1999119.jpg"
+  },
+  {
+    "id": "4207781",
+    "name": "孩子你慢慢来",
+    "authors": [
+      "\n            龙应台",
+      "龙应台作品精选"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s4124434.jpg"
+  },
+  {
+    "id": "4171951",
+    "name": "失落的秘符",
+    "authors": [
+      "\n                [美]\n            丹·布朗",
+      "99读书人",
+      "丹·布朗作品（2009版）"
+    ],
+    "score": "7.4",
+    "cover": "https://cdn.scrape.center/book/s4113637.jpg"
+  },
+  {
+    "id": "19940743",
+    "name": "文化苦旅",
+    "authors": [
+      "余秋雨"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s27226968.jpg"
+  },
+  {
+    "id": "20397280",
+    "name": "黄昏里的男孩",
+    "authors": [
+      "\n            余华",
+      "余华作品（2012版）"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s24940796.jpg"
+  },
+  {
+    "id": "20406553",
+    "name": "现实一种",
+    "authors": [
+      "\n            余华",
+      "余华作品（2012版）"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s24641371.jpg"
+  },
+  {
+    "id": "20421947",
+    "name": "在细雨中呼喊",
+    "authors": [
+      "余华"
+    ],
+    "score": "8.6",
+    "cover": "https://cdn.scrape.center/book/s26840501.jpg"
+  },
+  {
+    "id": "20441957",
+    "name": "兄弟",
+    "authors": [
+      "\n            余华",
+      "余华作品（2012版）"
+    ],
+    "score": "8.5",
+    "cover": "https://cdn.scrape.center/book/s24936189.jpg"
+  },
+  {
+    "id": "6440343",
+    "name": "荒原",
+    "authors": [
+      "(英)托·斯·艾略特"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s10458247.jpg"
+  },
+  {
+    "id": "1033825",
+    "name": "顾城的诗",
+    "authors": [
+      "\n            顾城",
+      "蓝星诗库"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s1024472.jpg"
+  },
+  {
+    "id": "1703544",
+    "name": "兄弟（下）",
+    "authors": [
+      "\n            余华",
+      "兄弟"
+    ],
+    "score": "7.4",
+    "cover": "https://cdn.scrape.center/book/s9109733.jpg"
+  },
+  {
+    "id": "24540864",
+    "name": "第七天",
+    "authors": [
+      "\n            余华",
+      "新经典文化",
+      "新经典文库：余华作品"
+    ],
+    "score": "6.9",
+    "cover": "https://cdn.scrape.center/book/s26710519.jpg"
+  },
+  {
+    "id": "30422566",
+    "name": "观看王维的十九种方式",
+    "authors": [
+      "艾略特.温伯格"
+    ],
+    "score": "8.5",
+    "cover": "https://cdn.scrape.center/book/s33473775.jpg"
+  },
+  {
+    "id": "5414639",
+    "name": "旧情复燃",
+    "authors": [
+      "\n            简媜",
+      "简媜作品"
+    ],
+    "score": "8.5",
+    "cover": "https://cdn.scrape.center/book/s6270658.jpg"
+  },
+  {
+    "id": "5423803",
+    "name": "剑桥倚天屠龙史",
+    "authors": [
+      "\n            新垣平",
+      "崇贤馆"
+    ],
+    "score": "8.2",
+    "cover": "https://cdn.scrape.center/book/s4630914.jpg"
+  },
+  {
+    "id": "26309691",
+    "name": "月光落在左手上",
+    "authors": [
+      "\n            余秀华",
+      "理想国"
+    ],
+    "score": "8.2",
+    "cover": "https://cdn.scrape.center/book/s28000270.jpg"
+  },
+  {
+    "id": "26421126",
+    "name": "万物静默如谜",
+    "authors": [
+      "[波兰] 维斯瓦娃·辛波斯卡"
+    ],
+    "score": "8.8",
+    "cover": "https://cdn.scrape.center/book/s28831415.jpg"
+  },
+  {
+    "id": "2237621",
+    "name": "十八岁出门远行",
+    "authors": [
+      "余华"
+    ],
+    "score": "8.5",
+    "cover": "https://cdn.scrape.center/book/s29846754.jpg"
+  },
+  {
+    "id": "26291216",
+    "name": "我们生活在巨大的差距里",
+    "authors": [
+      "余华"
+    ],
+    "score": "6.5",
+    "cover": "https://cdn.scrape.center/book/s27999290.jpg"
+  },
+  {
+    "id": "20452409",
+    "name": "可爱的洪水猛兽",
+    "authors": [
+      "\n            韩寒",
+      "韩寒文集"
+    ],
+    "score": "7.1",
+    "cover": "https://cdn.scrape.center/book/s25979353.jpg"
+  },
+  {
+    "id": "27174130",
+    "name": "北野武的小酒馆",
+    "authors": [
+      "\n                [日]\n            北野武",
+      "雅众文化",
+      "雅众·影人"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s29660257.jpg"
+  },
+  {
+    "id": "4882133",
+    "name": "兄弟",
+    "authors": [
+      "\n            余华",
+      "余华作品（2008版）"
+    ],
+    "score": "8.5",
+    "cover": "https://cdn.scrape.center/book/s6206377.jpg"
+  },
+  {
+    "id": "30259153",
+    "name": "第七天",
+    "authors": [
+      "余华"
+    ],
+    "score": "7.7",
+    "cover": "https://cdn.scrape.center/book/s29864884.jpg"
+  },
+  {
+    "id": "30367453",
+    "name": "黄昏的诉说",
+    "authors": [
+      "[圣卢西亚]德里克·沃尔科特"
+    ],
+    "score": "9.5",
+    "cover": "https://cdn.scrape.center/book/s33531734.jpg"
+  },
+  {
+    "id": "30389935",
+    "name": "四个春天",
+    "authors": [
+      "陆庆屹"
+    ],
+    "score": "8.3",
+    "cover": "https://cdn.scrape.center/book/s29957035.jpg"
+  },
+  {
+    "id": "33111439",
+    "name": "有所不为的反叛者",
+    "authors": [
+      "罗新"
+    ],
+    "score": "8.9",
+    "cover": "https://cdn.scrape.center/book/s32346198.jpg"
+  },
+  {
+    "id": "1059419",
+    "name": "海边的卡夫卡",
+    "authors": [
+      "\n                [日]\n            村上春树",
+      "\n            林少华",
+      "村上春树文集（2001版）"
+    ],
+    "score": "8.1",
+    "cover": "https://cdn.scrape.center/book/s1094940.jpg"
+  }
+]
