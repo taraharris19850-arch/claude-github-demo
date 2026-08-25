@@ -156,9 +156,16 @@ for num, iss in issues.items():
         continue
     body = subprocess.run(["gh", "issue", "view", str(num), "--json", "body", "--jq", ".body"],
                           capture_output=True, text=True).stdout
-    for tok in body.split("`"):
-        if tok.startswith("stage") and tok.endswith(".py") and not os.path.exists(tok):
-            missing.append((num, tok))
+    # 只认表格行里的路径。issue 的「产出代码」表才是承诺，
+    # 行文中提到的路径（比如解释一次改名）只是引用，不构成承诺。
+    # 见 issue #20：早先不加这层过滤，说明文字里的旧路径会被当成承诺而误报。
+    for line in body.split("\n"):
+        if not line.strip().startswith("|"):
+            continue
+        for tok in line.split("`"):
+            if (tok.startswith("stage") and tok.endswith(".py")
+                    and not os.path.exists(tok) and (num, tok) not in missing):
+                missing.append((num, tok))   # 同一路径可能出现在多张表里，去重
 if not missing:
     print(f"   {G}✓{N} 已关闭 Issue 里承诺的代码文件全部真实存在")
 else:
