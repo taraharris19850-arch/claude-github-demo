@@ -1,0 +1,100 @@
+[
+  {
+    "name": "霸王别姬 - Farewell My Concubine",
+    "categories": [
+      "剧情",
+      "爱情"
+    ],
+    "score": "9.5",
+    "release_date": "1993-07-26"
+  },
+  {
+    "name": "这个杀手不太冷 - Léon",
+    "categories": [
+      "剧情",
+      "动作",
+      "犯罪"
+    ],
+    "score": "9.5",
+    "release_date": "1994-09-14"
+  },
+  {
+    "name": "肖申克的救赎 - The Shawshank Redemption",
+    "categories": [
+      "剧情",
+      "犯罪"
+    ],
+    "score": "9.5",
+    "release_date": "1994-09-10"
+  },
+  {
+    "name": "泰坦尼克号 - Titanic",
+    "categories": [
+      "剧情",
+      "爱情",
+      "灾难"
+    ],
+    "score": "9.5",
+    "release_date": "1998-04-03"
+  },
+  {
+    "name": "罗马假日 - Roman Holiday",
+    "categories": [
+      "剧情",
+      "喜剧",
+      "爱情"
+    ],
+    "score": "9.5",
+    "release_date": "1953-08-20"
+  },
+  {
+    "name": "唐伯虎点秋香 - Flirting Scholar",
+    "categories": [
+      "喜剧",
+      "爱情",
+      "古装"
+    ],
+    "score": "9.5",
+    "release_date": "1993-07-01"
+  },
+  {
+    "name": "乱世佳人 - Gone with the Wind",
+    "categories": [
+      "剧情",
+      "爱情",
+      "历史",
+      "战争"
+    ],
+    "score": "9.5",
+    "release_date": "1939-12-15"
+  },
+  {
+    "name": "喜剧之王 - The King of Comedy",
+    "categories": [
+      "剧情",
+      "喜剧",
+      "爱情"
+    ],
+    "score": "9.5",
+    "release_date": "1999-02-13"
+  },
+  {
+    "name": "楚门的世界 - The Truman Show",
+    "categories": [
+      "剧情",
+      "科幻"
+    ],
+    "score": "9.0",
+    "release_date": null
+  },
+  {
+    "name": "狮子王 - The Lion King",
+    "categories": [
+      "动画",
+      "歌舞",
+      "冒险"
+    ],
+    "score": "9.0",
+    "release_date": "1995-07-15"
+  }
+]
